@@ -15,7 +15,8 @@ This also log response in terminal as well as update text file.
 * file system (in build)
 
 
-### Command Line Output: 
+### Command Line Output:
+
 *Breaking Bad
 *Genre: Drama, Crime, Thriller
 *Avg Rating: 9.3
