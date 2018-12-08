@@ -2,9 +2,9 @@
 
 ### Command Line Node Js Application 
 Takes Command line user input (using inquirer npm package) in from of examples below.
-..Examples of user input....
-.."Actor Nicolas Cage"
-.."Show Breaking Bad"
+-Examples of user input....
+-"Actor Nicolas Cage"
+-"Show Breaking Bad"
 
 This also log response in terminal as well as update text file.
 
